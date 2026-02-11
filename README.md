@@ -116,7 +116,7 @@
 
 ```bash
 # 1. Clone Repository
-git clone https://github.com/chadi0x/the-big-brother.git
+git clone https://github.com/chadi0x/TheBigBrother.git
 cd the-big-brother
 
 # 2. Launch System
